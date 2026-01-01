@@ -17,7 +17,6 @@
   - Smart assistants & chatbots  
   - Edge AI & sensor-based solutions
 - 📚 I create educational content and tutorials for beginners
-- 🎓 Currently studying at **KTO Karatay University**
 
 ### 🌐 Connect with me:
 
